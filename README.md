@@ -26,7 +26,7 @@ Everything else!
 
 # Not Compatible 
 
-New versions of macOS
+New/spotify supported versions of macOS
 
 
 
