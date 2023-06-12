@@ -1,5 +1,5 @@
 # Oldify
-Welcome to Oldify, a community-driven project to bring back Spotify for older versions of macOS, such as macOS 10.9.
+Welcome to Oldify, a community-driven project to bring back Spotify for older versions of macOS, such as macOS 10.10.
 
 Spotify has officially discontinued support for older versions of macOS, but we believe that everyone should have access to the best music in the world. That's why we're working to create a version of Spotify that will work on older macOS versions.
 
@@ -16,5 +16,20 @@ The goal is to eventually make Oldify available for all versions of macOS that S
 
 
 # Supported/Tested Versions (as of 06/11/2023)
+macOS Yosemite (10.10)
+
+
+
+# Not Tested
+Everything else!
+
+
+# Not Compatible 
+
+New versions of macOS
+
+
+
+# In Progress
 macOS Mavericks (10.9)
 
